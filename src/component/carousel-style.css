@@ -1,0 +1,19 @@
+.carousel-box
+{
+ 
+}
+
+.carosel-img
+{
+  width: 1920px;
+  height: 970px;
+  opacity: 1;
+}
+
+.name-header
+{
+  font-size: 600%;
+  font-style: normal;
+  color:ghostwhite;
+  text-shadow: 4px 4px 4px black;
+}
